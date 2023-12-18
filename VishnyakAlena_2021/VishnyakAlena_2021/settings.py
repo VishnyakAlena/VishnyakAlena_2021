@@ -55,7 +55,7 @@ ROOT_URLCONF = 'VishnyakAlena_2021.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': ['VishnyakAlena_2021/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
