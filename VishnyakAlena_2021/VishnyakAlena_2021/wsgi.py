@@ -1,5 +1,5 @@
 """
-WSGI config for VishnyakAlena_2021 project.
+WSGI config for VishnyakAlena_2021 my_project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
